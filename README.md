@@ -12,7 +12,11 @@ Base-to-Novel Generalization. (ViT-B/16 CLIP)
 - `TextRefiner` **TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning.** AAAI 2025.     
 [[Paper LinK](https://arxiv.org/abs/2412.08176)] [[Code Link](https://github.com/xjjxmu/TextRefiner)] 
 - `ProText` **Learning to Prompt with Text Only Supervision for Vision-Language Models.** AAAI 2025.  
-[[Paper Link](https://arxiv.org/abs/2401.02418)] [[Code Link](https://github.com/muzairkhattak/ProText)] ![](https://img.shields.io/badge/Text-green) 
+[[Paper Link](https://arxiv.org/abs/2401.02418)] [[Code Link](https://github.com/muzairkhattak/ProText)] ![](https://img.shields.io/badge/Text-green)
+- `ProText` **Learning to Prompt with Text Only Supervision for Vision-Language Models.** AAAI 2025.  
+[[Paper Link](https://arxiv.org/abs/2401.02418)] [[Code Link](https://github.com/muzairkhattak/ProText)] ![](https://img.shields.io/badge/Text-green)
+- `SPTR` **A Similarity Paradigm Through Textual Regularization Without Forgetting.** AAAI 2025.  
+[[Paper Link](https://arxiv.org/abs/2502.14376)] [[Code Link](No code available] ![](https://img.shields.io/badge/Image--Text-blue)
 - `MMRL` **MMRL: Multi-Modal Representation Learning for Vision-Language Models.** CVPR 2025.  
 [[Paper Link](https://arxiv.org/abs/2503.08497)] [[Code Link](https://github.com/yunncheng/MMRL)] ![](https://img.shields.io/badge/Image--Text-blue)
 - `DPC` **DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models.** CVPR 2025.   
@@ -24,4 +28,4 @@ Base-to-Novel Generalization. (ViT-B/16 CLIP)
 - `TAC` **Task-Aware Clustering for Prompting Vision-Language Models**. CVPR 2025.   
 [[Paper Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Hao_Task-Aware_Clustering_for_Prompting_Vision-Language_Models_CVPR_2025_paper.pdf)] [[Code Link](https://github.com/FushengHao/TAC)] ![](https://img.shields.io/badge/Image--Text-blue)     
 - `ATPrompt` **Advancing Textual Prompt Learning with Anchored Attributes.** ICCV 2025.   
-[[Paper Link](https://arxiv.org/abs/2412.09442)] [[Code Link](https://github.com/zhengli97/ATPrompt)] [[论文解读](https://zhuanlan.zhihu.com/p/11787739769)] [[中文版](https://github.com/zhengli97/ATPrompt/blob/main/docs/ATPrompt_chinese_version.pdf)] ![](https://img.shields.io/badge/Text-green)  
+[[Paper Link](https://arxiv.org/abs/2412.09442)] [[Code Link](https://github.com/zhengli97/ATPrompt)]![](https://img.shields.io/badge/Text-green)  
