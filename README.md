@@ -19,7 +19,7 @@ Base-to-Novel Generalization. (ViT-B/16 CLIP)
 - [[Paper Link](https://arxiv.org/abs/2502.14376)] [No code available] ![](https://img.shields.io/badge/Text-green)
 - `PTinCAS` **Prompt Tuning In a Compact Attribute Space** AAAI 2025.
 - [[Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/32365)] [No code available] ![](https://img.shields.io/badge/Text-green)
-- `DSRA` **Exploring the Better Multimodal Synergy Strategy for Vision-Language Models** AAAI 2025.  
+- `DsRA` **Exploring the Better Multimodal Synergy Strategy for Vision-Language Models** AAAI 2025.  
 [[Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/34372)] [No code available] ![](https://img.shields.io/badge/Image--Text-blue)
 - `MMRL` **MMRL: Multi-Modal Representation Learning for Vision-Language Models** CVPR 2025.  
 [[Paper Link](https://arxiv.org/abs/2503.08497)] [[Code Link](https://github.com/yunncheng/MMRL)] ![](https://img.shields.io/badge/Image--Text-blue)
