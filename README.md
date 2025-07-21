@@ -21,7 +21,7 @@ Base-to-Novel Generalization. (ViT-B/16 CLIP)
 [[Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/32365)] [No code available] ![](https://img.shields.io/badge/Text-green)
 - `DsRA` **Exploring the Better Multimodal Synergy Strategy for Vision-Language Models**    AAAI 2025.  
 [[Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/34372)] [No code available] ![](https://img.shields.io/badge/Image--Text-blue)
-- `CLIP-AST` **Adaptive Parameter Selection for Tuning Vision-Language Models**    CVPRI 2025.  
+- `CLIP-AST` **Adaptive Parameter Selection for Tuning Vision-Language Models**    CVPR 2025.  
 [[Paper Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Adaptive_Parameter_Selection_for_Tuning_Vision-Language_Models_CVPR_2025_paper.pdf)] [No code available] ![](https://img.shields.io/badge/Image--Text-blue)
 - `MMRL` **MMRL: Multi-Modal Representation Learning for Vision-Language Models**    CVPR 2025.  
 [[Paper Link](https://arxiv.org/abs/2503.08497)] [[Code Link](https://github.com/yunncheng/MMRL)] ![](https://img.shields.io/badge/Image--Text-blue)
