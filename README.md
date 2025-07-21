@@ -13,8 +13,6 @@ Base-to-Novel Generalization. (ViT-B/16 CLIP)
 [[Paper LinK](https://arxiv.org/abs/2412.08176)] [[Code Link](https://github.com/xjjxmu/TextRefiner)] 
 - `ProText` **Learning to Prompt with Text Only Supervision for Vision-Language Models.** AAAI 2025.  
 [[Paper Link](https://arxiv.org/abs/2401.02418)] [[Code Link](https://github.com/muzairkhattak/ProText)] ![](https://img.shields.io/badge/Text-green)
-- `ProText` **Learning to Prompt with Text Only Supervision for Vision-Language Models.** AAAI 2025.  
-[[Paper Link](https://arxiv.org/abs/2401.02418)] [[Code Link](https://github.com/muzairkhattak/ProText)] ![](https://img.shields.io/badge/Text-green)
 - `SPTR` **A Similarity Paradigm Through Textual Regularization Without Forgetting.** AAAI 2025.  
 [[Paper Link](https://arxiv.org/abs/2502.14376)] [No code available] ![](https://img.shields.io/badge/Image--Text-blue)
 - `MMRL` **MMRL: Multi-Modal Representation Learning for Vision-Language Models.** CVPR 2025.  
