@@ -2,6 +2,7 @@
 A curated list of prompt learning methods for vision-language models which can be used for base-to-novel generalizaiton.
 
 ### Additional Notes:
+- All the papers included in this list contain base-to-novel generalization experiments. In other words, methods that do not demonstrate generalization capabilities are not listed here.
 - I was saddened to unexpectedly find that **Yaohui Li (1997-2024)**, the second author of **Conditional Prototype Rectification Prompt Learning (CPR, TCSVT 2025)**, tragically passed away in an accident after completing this work. In his homepage, his education timeline noted his PhD as expected to span from 2023 to 2027, but sadly, his 2027 will never come. Although I did not know him personally, I extend my heartfelt gratitude for his contributions to the field of prompt learning, and I hope that his legacy will inspire others to build upon his vision. May you rest in peace.
 
 
