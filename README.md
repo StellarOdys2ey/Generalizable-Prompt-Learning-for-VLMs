@@ -2,6 +2,8 @@
 A curated list of prompt learning methods for vision-language models which can be used for base-to-novel generalizaiton.
 
 ### Additional Notes:
+- I was saddened to unexpectedly learn that **Yaohui Li (1997-2024)**, the second author of CPR, tragically passed away in an accident shortly after completing his work.  In his personal homepage, his education timeline noted his PhD as expected to span from 2023 to 2027 at Nanjing University, but sadly, his 2027 will never come. Although I did not know him personally, I extend my heartfelt gratitude for his invaluable contributions to the field of prompt learning, and I hope that his legacy will inspire others to build upon his vision. May you rest in peace.
+
 
 
 # <div style="font-size: 10px;">Table of Contents</div>
@@ -38,8 +40,10 @@ A curated list of prompt learning methods for vision-language models which can b
 - `2SFS` **Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**    CVPR 2025.   
 [[Paper Link](https://arxiv.org/abs/2503.11609)] [[Code Link](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)]   
 - `SkipT` **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**    CVPR 2025.    
-[[Paper Link](https://arxiv.org/abs/2412.01256)] [[Code Link](https://github.com/qunovo/NLPrompt)] ![](https://img.shields.io/badge/Text-green)   
+[[Paper Link](https://arxiv.org/abs/2412.01256)] [[Code Link](https://github.com/qunovo/NLPrompt)] ![](https://img.shields.io/badge/Text-green)
 - `TAC` **Task-Aware Clustering for Prompting Vision-Language Models**    CVPR 2025.   
 [[Paper Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Hao_Task-Aware_Clustering_for_Prompting_Vision-Language_Models_CVPR_2025_paper.pdf)] [[Code Link](https://github.com/FushengHao/TAC)] ![](https://img.shields.io/badge/Image--Text-blue)     
 - `ATPrompt` **Advancing Textual Prompt Learning with Anchored Attributes**    ICCV 2025.   
-[[Paper Link](https://arxiv.org/abs/2412.09442)] [[Code Link](https://github.com/zhengli97/ATPrompt)]![](https://img.shields.io/badge/Text-green)  
+[[Paper Link](https://arxiv.org/abs/2412.09442)] [[Code Link](https://github.com/zhengli97/ATPrompt)]![](https://img.shields.io/badge/Text-green)
+- `CPR` **Conditional Prototype Rectification Prompt Learning**    TCSVT 2025.   
+[[Paper Link](https://ieeexplore.ieee.org/abstract/document/11069290)] [[Code Link](https://github.com/chenhaoxing/CPR)]![](https://img.shields.io/badge/Text-green)  
