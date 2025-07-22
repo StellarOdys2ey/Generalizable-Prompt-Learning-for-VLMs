@@ -59,6 +59,8 @@ A curated list of prompt learning methods for vision-language models which can b
 [[Paper Link](https://openreview.net/pdf?id=6wOmHdwCC4)] [[Code Link](https://github.com/cnunlp/DeKg)]![](https://img.shields.io/badge/Text-Green)
 - `DiSa` **DiSa: Directional Saliency-Aware Prompt Learning for Generalizable Vision-Language Models**    KDD 2025.   
 [[Paper Link](https://arxiv.org/abs/2505.19373)] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
+- `KAID` **KAID: Knowledge-Aware Interactive Distillation for Vision-Language Models**    ACM MM 2025.   
+[No paper available] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
 - `BIP` **Bi-modality Individual-aware Prompt tuning for Visual-Language Model**    TPAMI 2025.   
 [[Paper Link](https://ieeexplore.ieee.org/abstract/document/10949734)] [[Code Link](https://github.com/htyao89/BIP)]![](https://img.shields.io/badge/Image--Text-blue)  
 - `CPR` **Conditional Prototype Rectification Prompt Learning**    TCSVT 2025.   
