@@ -53,9 +53,9 @@ A curated list of prompt learning methods for vision-language models which can b
 [[Paper Link](https://arxiv.org/abs/2505.03414)] [No code available]![](https://img.shields.io/badge/Text-Green)
 - `SurPL` **Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models**    ICML 2025.   
 [[Paper Link](https://openreview.net/pdf?id=zjG9GRG462)] [[Code Link](https://github.com/llcllc1997/SurPL)]![](https://img.shields.io/badge/Image--Text-blue)
-- `TAP` **Tree of Attributes Prompt Learning For Vision Language Models**    ICML 2025.   
+- `TAP` **Tree of Attributes Prompt Learning For Vision Language Models**    ICLR 2025.   
 [[Paper Link](https://arxiv.org/abs/2410.11201)] [[Code Link](https://github.com/HHenryD/TAP)]![](https://img.shields.io/badge/Image--Text-blue)
-- `DeKg` **Tree of Attributes Prompt Learning For Vision Language Models**    ICML 2025.   
+- `DeKg` **Tree of Attributes Prompt Learning For Vision Language Models**    ICLR 2025.   
 [[Paper Link](https://openreview.net/pdf?id=6wOmHdwCC4)] [[Code Link](https://github.com/cnunlp/DeKg)]![](https://img.shields.io/badge/Text-Green)
 - `CPR` **Conditional Prototype Rectification Prompt Learning**    TCSVT 2025.   
 [[Paper Link](https://ieeexplore.ieee.org/abstract/document/11069290)] [[Code Link](https://github.com/chenhaoxing/CPR)]![](https://img.shields.io/badge/Image--Text-blue)  
