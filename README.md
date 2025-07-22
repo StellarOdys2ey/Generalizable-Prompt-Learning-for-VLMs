@@ -1,6 +1,9 @@
 # Generalizable-Prompt-Learning-for-VLMs
 A curated list of prompt learning methods for vision-language models which can be used for base-to-novel generalizaiton.
 
+### Additional Notes:
+
+
 # <div style="font-size: 10px;">Table of Contents</div>
 
 - [Papers](#papers)
