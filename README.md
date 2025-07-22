@@ -55,7 +55,7 @@ A curated list of prompt learning methods for vision-language models which can b
 [[Paper Link](https://openreview.net/pdf?id=zjG9GRG462)] [[Code Link](https://github.com/llcllc1997/SurPL)]![](https://img.shields.io/badge/Image--Text-blue)
 - `TAP` **Tree of Attributes Prompt Learning For Vision Language Models**    ICLR 2025.   
 [[Paper Link](https://arxiv.org/abs/2410.11201)] [[Code Link](https://github.com/HHenryD/TAP)]![](https://img.shields.io/badge/Image--Text-blue)
-- `DeKg` **Tree of Attributes Prompt Learning For Vision Language Models**    ICLR 2025.   
+- `DeKg` **Divergence-enhanced Knowledge-guided Context Optimization for Visual-Language Prompt Tuning**    ICLR 2025.   
 [[Paper Link](https://openreview.net/pdf?id=6wOmHdwCC4)] [[Code Link](https://github.com/cnunlp/DeKg)]![](https://img.shields.io/badge/Text-Green)
 - `BIP` **Bi-modality Individual-aware Prompt tuning for Visual-Language Model**    TPAMI 2025.   
 [[Paper Link](https://ieeexplore.ieee.org/abstract/document/10949734)] [[Code Link](https://github.com/htyao89/BIP)]![](https://img.shields.io/badge/Image--Text-blue)  
