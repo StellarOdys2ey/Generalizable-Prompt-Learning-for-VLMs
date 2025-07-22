@@ -12,11 +12,11 @@ A curated list of prompt learning methods for vision-language models which can b
     - [Published in 2025](#Published-in-2025)
 
 ## Keywords
-![](https://img.shields.io/badge/Text-green) Use text-based prompts/adapters.
+![](https://img.shields.io/badge/Text-green) Use text-based parameter-efficient fine-tuning.
 
-![](https://img.shields.io/badge/Image-orange) Use image-based prompts/adapters.
+![](https://img.shields.io/badge/Image-orange) Use image-based parameter-efficient fine-tuning.
 
-![](https://img.shields.io/badge/Image--Text-blue) Use text- and image-based prompts/adapters.
+![](https://img.shields.io/badge/Image--Text-blue) Use text- and image-based parameter-efficient fine-tuning.
 
 ## Published in 2025
 - `TextRefiner` **TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**    AAAI 2025.     
@@ -37,8 +37,8 @@ A curated list of prompt learning methods for vision-language models which can b
 [[Paper Link](https://arxiv.org/abs/2503.08497)] [[Code Link](https://github.com/yunncheng/MMRL)] ![](https://img.shields.io/badge/Image--Text-blue)
 - `DPC` **DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models**    CVPR 2025.   
 [[Paper Link](https://arxiv.org/abs/2503.13443)] [[Code Link](https://github.com/JREion/DPC)] ![](https://img.shields.io/badge/Text-green)   
-- `2SFS` **Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**    CVPR 2025.   
-[[Paper Link](https://arxiv.org/abs/2503.11609)] [[Code Link](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)]   
+- `2SFS` **Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**   CVPR 2025.  
+[[Paper Link](https://arxiv.org/abs/2503.11609)] [[Code Link](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)]![](https://img.shields.io/badge/Image--Text-blue)   
 - `SkipT` **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**    CVPR 2025.    
 [[Paper Link](https://arxiv.org/abs/2412.11509)] [[Code Link](https://github.com/Koorye/SkipTuning)]  ![](https://img.shields.io/badge/Image--Text-blue)
 - `TAC` **Task-Aware Clustering for Prompting Vision-Language Models**    CVPR 2025.   
