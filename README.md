@@ -47,7 +47,7 @@ A curated list of prompt learning methods for vision-language models which can b
 [[Paper Link](https://arxiv.org/abs/2412.09442)] [[Code Link](https://github.com/zhengli97/ATPrompt)]![](https://img.shields.io/badge/Text-green)
 - `CaPL` **Causality-guided Prompt Learning for Vision-language Models via Visual Granulation**    ICCV 2025.   
 [No paper available] [[Code Link](https://github.com/GaoMY-521/CaPL_Code)]![](https://img.shields.io/badge/Image--Text-blue)
-- `HicroPL` **Hierarchical Cross-modal Prompt Learning for Vision-Language Models**    ICCV 2025.   
+- `HicroPL` **Hierarchical Cross-modal Prompt Learning for Vision-Language Models**    ICCV 2025.
 [[Paper Link](https://arxiv.org/abs/2507.14976)] [[Code Link(empty)](https://github.com/zzeoZheng/HiCroPL)]![](https://img.shields.io/badge/Image--Text-blue)
 - `FM` **Enhancing Target-unspecific Tasks through a Features Matrix**    ICML 2025.   
 [[Paper Link](https://arxiv.org/abs/2505.03414)] [No code available]![](https://img.shields.io/badge/Text-Green)
@@ -57,6 +57,8 @@ A curated list of prompt learning methods for vision-language models which can b
 [[Paper Link](https://arxiv.org/abs/2410.11201)] [[Code Link](https://github.com/HHenryD/TAP)]![](https://img.shields.io/badge/Image--Text-blue)
 - `DeKg` **Divergence-enhanced Knowledge-guided Context Optimization for Visual-Language Prompt Tuning**    ICLR 2025.   
 [[Paper Link](https://openreview.net/pdf?id=6wOmHdwCC4)] [[Code Link](https://github.com/cnunlp/DeKg)]![](https://img.shields.io/badge/Text-Green)
+- `DiSa` **DiSa: Directional Saliency-Aware Prompt Learning for Generalizable Vision-Language Models**    KDD 2025.   
+[[Paper Link](https://arxiv.org/abs/2505.19373)] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
 - `BIP` **Bi-modality Individual-aware Prompt tuning for Visual-Language Model**    TPAMI 2025.   
 [[Paper Link](https://ieeexplore.ieee.org/abstract/document/10949734)] [[Code Link](https://github.com/htyao89/BIP)]![](https://img.shields.io/badge/Image--Text-blue)  
 - `CPR` **Conditional Prototype Rectification Prompt Learning**    TCSVT 2025.   
