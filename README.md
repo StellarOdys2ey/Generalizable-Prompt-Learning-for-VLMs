@@ -20,7 +20,7 @@ A curated list of prompt learning methods for vision-language models which can b
 
 ## Published in 2025
 - `TextRefiner` **TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**    AAAI 2025.     
-[[Paper LinK](https://arxiv.org/abs/2412.08176)] [[Code Link](https://github.com/xjjxmu/TextRefiner)] 
+[[Paper LinK](https://arxiv.org/abs/2412.08176)] [[Code Link](https://github.com/xjjxmu/TextRefiner)]![](https://img.shields.io/badge/Text-green)
 - `ProText` **Learning to Prompt with Text Only Supervision for Vision-Language Models**    AAAI 2025.  
 [[Paper Link](https://arxiv.org/abs/2401.02418)] [[Code Link](https://github.com/muzairkhattak/ProText)] ![](https://img.shields.io/badge/Text-green)
 - `SPTR` **A Similarity Paradigm Through Textual Regularization Without Forgetting**    AAAI 2025.  
