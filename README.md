@@ -46,5 +46,9 @@ A curated list of prompt learning methods for vision-language models which can b
 [[Paper Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Hao_Task-Aware_Clustering_for_Prompting_Vision-Language_Models_CVPR_2025_paper.pdf)] [[Code Link](https://github.com/FushengHao/TAC)] ![](https://img.shields.io/badge/Image--Text-blue)     
 - `ATPrompt` **Advancing Textual Prompt Learning with Anchored Attributes**    ICCV 2025.   
 [[Paper Link](https://arxiv.org/abs/2412.09442)] [[Code Link](https://github.com/zhengli97/ATPrompt)]![](https://img.shields.io/badge/Text-green)
+- `CaPL` **Causality-guided Prompt Learning for Vision-language Models via Visual Granulation**    ICCV 2025.   
+[No paper available] [[Code Link](https://github.com/GaoMY-521/CaPL_Code)]![](https://img.shields.io/badge/Image--Text-blue)
+- `HicroPL` **Hierarchical Cross-modal Prompt Learning for Vision-Language Models**    ICCV 2025.   
+[[Paper Link](https://arxiv.org/abs/2507.14976)] [[Code Link(empty)](https://github.com/zzeoZheng/HiCroPL)]![](https://img.shields.io/badge/Image--Text-blue)
 - `CPR` **Conditional Prototype Rectification Prompt Learning**    TCSVT 2025.   
 [[Paper Link](https://ieeexplore.ieee.org/abstract/document/11069290)] [[Code Link](https://github.com/chenhaoxing/CPR)]![](https://img.shields.io/badge/Image--Text-blue)  
