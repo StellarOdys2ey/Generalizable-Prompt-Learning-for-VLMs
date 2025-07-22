@@ -6,7 +6,12 @@ A curated list of prompt learning methods for vision-language models which can b
 - [Papers](#papers)
     - [Published in 2025](#Published-in-2025)
 
-Base-to-Novel Generalization. (ViT-B/16 CLIP)
+## Keywords
+![](https://img.shields.io/badge/Text-green) Use text-based prompts/adapters.
+
+![](https://img.shields.io/badge/Image-orange) Use image-based prompts/adapters.
+
+![](https://img.shields.io/badge/Image--Text-blue) Use text- and image-based prompts/adapters.
 
 ## Published in 2025
 - `TextRefiner` **TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**    AAAI 2025.     
