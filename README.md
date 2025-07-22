@@ -57,5 +57,10 @@ A curated list of prompt learning methods for vision-language models which can b
 [[Paper Link](https://arxiv.org/abs/2410.11201)] [[Code Link](https://github.com/HHenryD/TAP)]![](https://img.shields.io/badge/Image--Text-blue)
 - `DeKg` **Tree of Attributes Prompt Learning For Vision Language Models**    ICLR 2025.   
 [[Paper Link](https://openreview.net/pdf?id=6wOmHdwCC4)] [[Code Link](https://github.com/cnunlp/DeKg)]![](https://img.shields.io/badge/Text-Green)
+- `BIP` **Bi-modality Individual-aware Prompt tuning for Visual-Language Model**    TPAMI 2025.   
+[[Paper Link](https://ieeexplore.ieee.org/abstract/document/10949734)] [[Code Link](https://github.com/htyao89/BIP)]![](https://img.shields.io/badge/Image--Text-blue)  
 - `CPR` **Conditional Prototype Rectification Prompt Learning**    TCSVT 2025.   
-[[Paper Link](https://ieeexplore.ieee.org/abstract/document/11069290)] [[Code Link](https://github.com/chenhaoxing/CPR)]![](https://img.shields.io/badge/Image--Text-blue)  
+[[Paper Link](https://ieeexplore.ieee.org/abstract/document/11069290)] [[Code Link](https://github.com/chenhaoxing/CPR)]![](https://img.shields.io/badge/Image--Text-blue)
+- `LwEIB` **Learning with Enriched Inductive Biases for Vision-Language Models**    IJCV 2025.   
+[[Paper Link](https://link.springer.com/article/10.1007/s11263-025-02354-1)] [[Code Link](https://
+github.com/ZjjConan/VLM-LwEIB)]![](https://img.shields.io/badge/Image--Text-blue)  
