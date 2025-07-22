@@ -41,7 +41,7 @@ A curated list of prompt learning methods for vision-language models which can b
 - `2SFS` **Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**    CVPR 2025.   
 [[Paper Link](https://arxiv.org/abs/2503.11609)] [[Code Link](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)]   
 - `SkipT` **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**    CVPR 2025.    
-[[Paper](https://arxiv.org/abs/2412.11509)] [[Code](https://github.com/Koorye/SkipTuning)]  ![](https://img.shields.io/badge/Image--Text-blue)
+[[Paper Link](https://arxiv.org/abs/2412.11509)] [[Code Link](https://github.com/Koorye/SkipTuning)]  ![](https://img.shields.io/badge/Image--Text-blue)
 - `TAC` **Task-Aware Clustering for Prompting Vision-Language Models**    CVPR 2025.   
 [[Paper Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Hao_Task-Aware_Clustering_for_Prompting_Vision-Language_Models_CVPR_2025_paper.pdf)] [[Code Link](https://github.com/FushengHao/TAC)] ![](https://img.shields.io/badge/Image--Text-blue)     
 - `ATPrompt` **Advancing Textual Prompt Learning with Anchored Attributes**    ICCV 2025.   
