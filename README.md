@@ -50,7 +50,7 @@ A curated list of prompt learning methods for vision-language models which can b
 - `CaPL` **Causality-guided Prompt Learning for Vision-language Models via Visual Granulation**    ICCV 2025.   
 [No paper available] [[Code Link](https://github.com/GaoMY-521/CaPL_Code)]![](https://img.shields.io/badge/Image--Text-blue)
 - `HicroPL` **Hierarchical Cross-modal Prompt Learning for Vision-Language Models**    ICCV 2025.   
-[[Paper Link](https://arxiv.org/abs/2507.14976)] [[Code Link(empty)](https://github.com/zzeoZheng/HiCroPL)]![](https://img.shields.io/badge/Image--Text-blue)
+[[Paper Link](https://arxiv.org/abs/2507.14976)] [[Code Link](https://github.com/zzeoZheng/HiCroPL)]![](https://img.shields.io/badge/Image--Text-blue)
 - `FM` **Enhancing Target-unspecific Tasks through a Features Matrix**    ICML 2025.   
 [[Paper Link](https://arxiv.org/abs/2505.03414)] [No code available]![](https://img.shields.io/badge/Text-Green)
 - `SurPL` **Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models**    ICML 2025.   
