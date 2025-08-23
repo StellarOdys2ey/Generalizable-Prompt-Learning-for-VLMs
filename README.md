@@ -66,4 +66,6 @@ A curated list of prompt learning methods for vision-language models which can b
 - `CPR` **Conditional Prototype Rectification Prompt Learning**    TCSVT 2025.   
 [[Paper Link](https://ieeexplore.ieee.org/abstract/document/11069290)] [[Code Link](https://github.com/chenhaoxing/CPR)]![](https://img.shields.io/badge/Image--Text-blue)
 - `LwEIB` **Learning with Enriched Inductive Biases for Vision-Language Models**    IJCV 2025.   
-[[Paper Link](https://link.springer.com/article/10.1007/s11263-025-02354-1)] [[Code Link](https://github.com/ZjjConan/VLM-LwEIB)]![](https://img.shields.io/badge/Image--Text-blue)  
+[[Paper Link](https://link.springer.com/article/10.1007/s11263-025-02354-1)] [[Code Link](https://github.com/ZjjConan/VLM-LwEIB)]![](https://img.shields.io/badge/Image--Text-blue)
+- `FCPrompt` **Frequency-based Comprehensive Prompt Learning for Vision-Language Models**    TPAMI 2025.   
+[[Paper Link](https://ieeexplore.ieee.org/abstract/document/11129912)] [[Code Link](https://github.com/llcllc1997/FCPrompt)]![](https://img.shields.io/badge/Image--Text-blue)  
