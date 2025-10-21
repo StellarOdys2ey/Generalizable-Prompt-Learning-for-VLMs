@@ -19,6 +19,8 @@ A curated list of prompt learning methods for vision-language models which can b
 ![](https://img.shields.io/badge/Image--Text-blue) Use text- and image-based parameter-efficient fine-tuning.
 
 ## Published in 2025
+- `Beyond the Seen` **Beyond the Seen: Bounded Distribution Estimation for Open-Vocabulary Learning**    NIPS 2025.     
+[[Paper LinK](https://arxiv.org/abs/2510.04770)] [[Code Link](https://github.com/Beyond-the-Seen-NeurIPS/Beyond-the-Seen)]![](https://img.shields.io/badge/Image--Text-blue)
 - `TextRefiner` **TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**    AAAI 2025.     
 [[Paper LinK](https://arxiv.org/abs/2412.08176)] [[Code Link](https://github.com/xjjxmu/TextRefiner)]![](https://img.shields.io/badge/Text-green)
 - `ProText` **Learning to Prompt with Text Only Supervision for Vision-Language Models**    AAAI 2025.  
