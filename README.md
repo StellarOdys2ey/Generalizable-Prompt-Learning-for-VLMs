@@ -30,7 +30,7 @@ A curated list of prompt learning methods for vision-language models which can b
 [No paper available] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
 - `ReBaPL` **ReBaPL: Repulsive Bayesian Prompt Learning**    CVPR 2026.     
 [[Paper LinK](https://arxiv.org/abs/2511.17339)] [[Code Link](https://github.com/SigmaNova/ReBaPL)]![](https://img.shields.io/badge/Image--Text-blue)
-- `Promise` **PROMISE: Prompt-Robust Vision-Language Models Via Meta-Finetuning**    CVPR 2026.     
+- `Promise` **PROMISE: Prompt-Robust Vision-Language Models Via Meta-Finetuning**    ICLR 2026.     
 [[Paper LinK](https://openreview.net/forum?id=3wZ6IIwPJq)] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
 
 ## Published in 2025
