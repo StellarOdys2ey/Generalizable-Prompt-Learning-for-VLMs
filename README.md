@@ -10,6 +10,7 @@ A curated list of prompt learning methods for vision-language models which can b
 
 - [Papers](#papers)
     - [Published in 2025](#Published-in-2025)
+    - [Published in 2026](#Published-in-2026)
 
 ## Keywords
 ![](https://img.shields.io/badge/Text-green) Use text-based parameter-efficient fine-tuning.
@@ -29,7 +30,8 @@ A curated list of prompt learning methods for vision-language models which can b
 [No paper available] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
 - `ReBaPL` **ReBaPL: Repulsive Bayesian Prompt Learning**    CVPR 2026.     
 [[Paper LinK](https://arxiv.org/abs/2511.17339)] [[Code Link](https://github.com/SigmaNova/ReBaPL)]![](https://img.shields.io/badge/Image--Text-blue)
-
+- `Promise` **PROMISE: Prompt-Robust Vision-Language Models Via Meta-Finetuning**    CVPR 2026.     
+[[Paper LinK](https://openreview.net/forum?id=3wZ6IIwPJq)] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
 
 ## Published in 2025
 - `Beyond the Seen` **Beyond the Seen: Bounded Distribution Estimation for Open-Vocabulary Learning**    NIPS 2025.     
