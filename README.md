@@ -21,14 +21,14 @@ A curated list of prompt learning methods for vision-language models which can b
 ## Published in 2026
 - `ProLoG` **ProLoG: Hybrid Prompt and LoRA Based Adaptation of Vision-Language Models for OOD Generalization**    AAAI 2026.     
 [[Paper LinK](https://ojs.aaai.org/index.php/AAAI/article/view/39664)] [[Code Link(Empty)](https://github.com/savertm/ProLoG_VLM)]![](https://img.shields.io/badge/Image--Text-blue)
-- `TextRefiner` **TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**    AAAI 2025.     
-[[Paper LinK](https://arxiv.org/abs/2412.08176)] [[Code Link](https://github.com/xjjxmu/TextRefiner)]![](https://img.shields.io/badge/Image--Text-blue)
-- `TextRefiner` **TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**    AAAI 2025.     
-[[Paper LinK](https://arxiv.org/abs/2412.08176)] [[Code Link](https://github.com/xjjxmu/TextRefiner)]![](https://img.shields.io/badge/Image--Text-blue)
-- `TextRefiner` **TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**    AAAI 2025.     
-[[Paper LinK](https://arxiv.org/abs/2412.08176)] [[Code Link](https://github.com/xjjxmu/TextRefiner)]![](https://img.shields.io/badge/Image--Text-blue)
-- `TextRefiner` **TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**    AAAI 2025.     
-[[Paper LinK](https://arxiv.org/abs/2412.08176)] [[Code Link](https://github.com/xjjxmu/TextRefiner)]![](https://img.shields.io/badge/Image--Text-blue)
+- `RMAdapter` **RMAdapter: Reconstruction-based Multi-Modal Adapter for Vision-Language Models**    AAAI 2026.     
+[[Paper LinK](https://arxiv.org/abs/2512.06811)] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
+- `LOREAL` **LOREAL: Mitigating Low-Resolution Challenges in Vision-Language Models with Attribute-driven Prompt Self-Distillation**    CVPR 2026.     
+[No paper available] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
+- `CPT` **Cluster-Aware Neural Collapse Prompt Tuning for Long-Tailed Generalization of Vision-Language Models**    CVPR 2026.     
+[No paper available] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
+- `ReBaPL` **ReBaPL: Repulsive Bayesian Prompt Learning**    CVPR 2026.     
+[[Paper LinK](https://arxiv.org/abs/2511.17339)] [[Code Link](https://github.com/SigmaNova/ReBaPL)]![](https://img.shields.io/badge/Image--Text-blue)
 
 
 ## Published in 2025
