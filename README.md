@@ -9,9 +9,9 @@ A curated list of prompt learning methods for vision-language models which can b
 # <div style="font-size: 10px;">Table of Contents</div>
 
 - [Papers](#papers)
-    - [Published in 2025](#Published-in-2025)
     - [Published in 2026](#Published-in-2026)
-
+    - [Published in 2025](#Published-in-2025)
+    
 ## Keywords
 ![](https://img.shields.io/badge/Text-green) Use text-based parameter-efficient fine-tuning.
 
