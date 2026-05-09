@@ -32,6 +32,8 @@ A curated list of prompt learning methods for vision-language models which can b
 [[Paper LinK](https://arxiv.org/abs/2511.17339)] [[Code Link](https://github.com/SigmaNova/ReBaPL)]![](https://img.shields.io/badge/Image--Text-blue)
 - `Promise` **PROMISE: Prompt-Robust Vision-Language Models Via Meta-Finetuning**    ICLR 2026.     
 [[Paper LinK](https://openreview.net/forum?id=3wZ6IIwPJq)] [No code available]![](https://img.shields.io/badge/Image--Text-blue)
+- `LightRA` **LightRA: Lightweight Residual Attention for Adaptation of Vision-Language Models**    TMM 2026.     
+[[Paper LinK](https://ieeexplore.ieee.org/abstract/document/11450461)] [[Code Link](https://github.com/longinhit/LightRA)]![](https://img.shields.io/badge/Image--Text-blue)
 
 ## Published in 2025
 - `Beyond the Seen` **Beyond the Seen: Bounded Distribution Estimation for Open-Vocabulary Learning**    NIPS 2025.     
